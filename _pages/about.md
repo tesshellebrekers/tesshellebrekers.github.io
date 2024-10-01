@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: tactile sensing for generalizable robot manipulation
 
 profile:
   align: right
@@ -21,6 +21,8 @@ I am currently a Research Scientist at Meta AI Research. Previously, I was a Pos
 My research focuses on developing soft and stretchable sensors for robotic applications. This includes sensing skins for hybrid robots (conventional robots with compliant surfaces) and fully-soft robots (robots made of completely compliant materials). 
 
 Moving forward, I am currently investigating soft sensor integration and the corresponding systems engineering challenges. Ultimately, I want to know what it takes to use soft sensors in real-world applications.
+
+Website in Progress (Oct 2024)
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
