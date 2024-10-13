@@ -1,11 +1,11 @@
 ---
-layout: cv
-permalink: /cv/
+# layout: cv
+permalink: /assets/pdf/resume_nov19.pdf
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: # example_pdf.pdf
-description: Coming soon
-toc:
-  sidebar: left
+# cv_pdf: example_pdf.pdf
+# description: 
+# toc:
+#   sidebar: left
 ---
